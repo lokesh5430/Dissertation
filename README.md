@@ -10,16 +10,16 @@ ____
 ---
 
 ## 🚀 How to Use
-1. Open `notebook_final.ipynb` to see the full workflow:
+1. Open `stock price and sentiment.ipynb` to see the full workflow:
    - Data collection from Yahoo Finance
    - Sentiment scoring using FinBERT
    - Preprocessing & feature engineering
    - Logistic regression risk prediction
    - Export to CSV for dashboard
 
-2. Load `dashboard_dataset.csv` into Power BI.
+2. Load `dashboard_dataset1.csv` into Power BI.
 
-3. Open `final_dashboard.pbix` to explore the ready-made dashboard:
+3. Open `risk analysis.pbix` to explore the ready-made dashboard:
    - Stock price vs sentiment trend (line chart)
    - KPI cards (price, average sentiment, risk probability)
    - Risk probability gauge
